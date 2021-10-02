@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>三场五幕导航站</title>
+    <link>https://czh0575.github.io/index/</link>
+    <description>Recent content on 三场五幕导航站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>三场五幕导航站</copyright><atom:link href="https://czh0575.github.io/index/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于网站</title>
+      <link>https://czh0575.github.io/index/about/</link>
+      <pubDate>Tue, 28 Jul 2020 19:27:08 +0800</pubDate>
+      
+      <guid>https://czh0575.github.io/index/about/</guid>
+      <description>关于本站 本项目是基于纯静态的网址导航网站webstack.cc 制作的Hogo主题，这是一个开源的公益项目，你可以拿来制作自己的网址导航，也可</description>
+    </item>
+    
+  </channel>
+</rss>
